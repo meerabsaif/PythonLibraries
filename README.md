@@ -15,4 +15,15 @@ Libraries in python utilized in DATA ANALYSIS.
 >
 >4.Length of An Array
 >
->5.Chnaging data type of data points
+>5.Changing data type of data points
+>
+>6.Sorting
+>
+>7.Concatenation
+>
+>8.Shape of an Array
+>
+>9.Size of an Array
+>
+>10.Indexing or Slicing
+>
