@@ -9,7 +9,7 @@ Libraries in python utilized in DATA ANALYSIS.
 >Array
 >1.Creating array
 >
->2.checking data type of array
+>2.Checking data type of array
 >
 >3.Dimensions and Axes
 >
