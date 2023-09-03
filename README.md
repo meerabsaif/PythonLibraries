@@ -4,7 +4,7 @@ What are Libraries?
 
 Libraries in python utilized in DATA ANALYSIS. 
 
-## BASIC INTRODUCTION OF NUMPY 
+## 1.BASIC INTRODUCTION OF NUMPY 
 >Its Use and Importance
 >Array
 >1.Creating array
@@ -27,3 +27,6 @@ Libraries in python utilized in DATA ANALYSIS.
 >
 >10.Indexing or Slicing
 >
+
+## 2. PANDAS
+22
