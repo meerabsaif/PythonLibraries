@@ -29,4 +29,11 @@ Libraries in python utilized in DATA ANALYSIS.
 >
 
 ## 2. PANDAS
-22
+>
+>Creating Dataframe
+>
+>Creating Series
+>
+>Statistics of Dataframe
+>
+>
