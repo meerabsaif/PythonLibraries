@@ -59,3 +59,6 @@ Libraries in python utilized in DATA ANALYSIS.
 >Adding colors and labels
 >
 >Coding Style : Explicit and Implicit
+>
+# Types of Plots in Matplotlib : 
+
