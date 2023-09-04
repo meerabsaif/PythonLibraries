@@ -60,5 +60,5 @@ Libraries in python utilized in DATA ANALYSIS.
 >
 >Coding Style : Explicit and Implicit
 >
-# Types of Plots in Matplotlib : 
+## Types of Plots in Matplotlib : 
 
