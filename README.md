@@ -43,3 +43,19 @@ Libraries in python utilized in DATA ANALYSIS.
 >Importing datasets from computer
 >
 >Exporting Dataset (downloaded from kaggle)
+>
+# 3. Data Visualization Using Matplotlib 
+>
+>Terminologies : figure and axes
+>
+>Creating a simple White background figure
+>
+>Importing data on plots
+>
+>Creating or Importing Datasets
+>
+>Plotting
+>
+>Adding colors and labels
+>
+>Coding Style : Explicit and Implicit
