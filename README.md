@@ -60,5 +60,6 @@ Libraries in python utilized in DATA ANALYSIS.
 >
 >Coding Style : Explicit and Implicit
 >
-## 4. Types of Plots in Matplotlib : 
+## 4. Data Visualization using Seaborn
+## 5. Types of Plots : 
 
